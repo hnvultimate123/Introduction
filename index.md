@@ -28,9 +28,9 @@ My favorite languages in order would probably be something like:
 
 Obviously each language has their own strengths and uses for different purposes, so its nice to become comfortable with multiple (as they all share similarities). I do find Java's syntax to be annoyingly verbose sometimes with all the ``` private static final LongObjectName RANDOM_CONST = ...``` and ```public static void main``` that might need to be typed, but for the most part, its definitely manageable.
 
-I also joined **Engineers for Exploration** during fall quarter of this year, in particular the FishSense team. I've grown to really like the research experience, and I felt that its been an incredible way to apply some of the skills I've been learning as part of my classes. I've also learned about how to use different libraries that I previously had not touched before (openCV, depthai, etc.). 
+I also joined **Engineers for Exploration** during fall quarter of this year, in particular the **FishSense** team. I've grown to really like the research experience, and I felt that its been an incredible way to apply some of the skills I've been learning as part of my classes. I've also learned about how to use different libraries that I previously had not touched before (such as [depthai](https://docs.luxonis.com/projects/api/en/latest/)). 
 
-My focus in FishSense currently (extending from last quarter, where I took CSE 199) is to evaluate one of the cameras that we are considering using in our underwater enclosure and determine whether it is worthwhile. I have also written Python scripts to calculate the accuracy, precision, and recall of our fish identification model.
+My focus in FishSense currently (extending from last quarter, where I took CSE 199) is to evaluate one of the cameras that we are considering using in our underwater enclosure and determine whether it is worthwhile. I have also written Python scripts to calculate the accuracy, precision, and recall of our fish identification model. [Here](OAKDpointcloud.jpg) is a cool visual of a point cloud generated from the depth data of the camera I am looking at!
 
 I have some machine learning experience, both through work with ACM AI Projects, CSE 152A (computer vision), and prior experience.
 
