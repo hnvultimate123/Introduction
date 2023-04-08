@@ -3,6 +3,8 @@
 **Hello there!** My name is Harish Vasanth, a second year Computer Science student. I really enjoy meeting new people and getting to know them better.
 
 ### Hobbies and Interests
+Of course, I love [programming](#programming-experience), so some fun stuff first!
+
 > I'm really feeling it!
 > 
 > ~ Shulk, Xenoblade Chronicles
@@ -24,7 +26,7 @@ My favorite languages in order would probably be something like:
 2. C
 3. Java
 
-Obviously each language has their own strengths and uses for different purposes, so its nice to become comfortable with multiple (as they all share similarities). I do find Java's syntax to be annoyingly verbose sometimes with all the ``` public static final RANDOM_CONST = ...``` that might need to be typed, but for the most part, its definitely manageable.
+Obviously each language has their own strengths and uses for different purposes, so its nice to become comfortable with multiple (as they all share similarities). I do find Java's syntax to be annoyingly verbose sometimes with all the ``` private static final LongObjectName RANDOM_CONST = ...``` and ```public static void main``` that might need to be typed, but for the most part, its definitely manageable.
 
 I also joined **Engineers for Exploration** during fall quarter of this year, in particular the FishSense team. I've grown to really like the research experience, and I felt that its been an incredible way to apply some of the skills I've been learning as part of my classes. I've also learned about how to use different libraries that I previously had not touched before (openCV, depthai, etc.). 
 
