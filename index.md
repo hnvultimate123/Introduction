@@ -1,5 +1,5 @@
-# Harish's User Page
-![Picture of Hrish](HarishSeniorPhoto.jpg)
+# CSE 110 Project: Meet Harish!
+![Picture of Harish](HarishSeniorPhoto.jpg)
 
 ## Who am I?
 **Hello there!** My name is Harish Vasanth, a second year Computer Science student. I really enjoy meeting new people and getting to know them better.
@@ -56,6 +56,6 @@ In the future, I hope to become a great software engineer and have the chance to
 
 **General Hopes:**
 
-- [ ]  Get work experience as part of group
-- [ ]  Make some new friends
-- [ ]  **Build fun projects!**
+- [x]  Get work experience as part of group
+- [x]  Make some new friends
+- [x]  **Build fun projects!**
